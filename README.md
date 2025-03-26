@@ -18,7 +18,7 @@
 ## Installation
 ### **1. Clone the Repository**
 ```
-git clone https://github.com/your-username/AI-personalize-diet-planner.git
+git clone https://github.com/Sahil1030/AI-personalize-diet-planner.git
 cd AI-personalize-diet-planner
 ```
 
